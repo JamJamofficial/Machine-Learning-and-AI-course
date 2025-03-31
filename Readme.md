@@ -1,10 +1,18 @@
-## Machine Learning and AI with Python HarvardX course (Certified)
-## Coming Soon!!!
-👋 Hey there this is a showcase of my coursework from the machine learning and ai course (with python) from harvardX / EdX. 
+# 🚀 Machine Learning & AI with Python – HarvardX (Certified)  
 
+## 🌟 Files coming Soon!  
 
-  Feel free to use the code as a reference in your projects and other machine learning related.⚡
+Hey there! 👋 This repository showcases my coursework and personal practice from the **Machine Learning & AI course** by **HarvardX / EdX**.  
 
-   
-   Make sure to follow me on 
-    <a href="https://www.instagram.com/jamjam_officiale">IG</a>
+### 📌 Topics Covered:  
+- Decision Trees 
+- Bagging (Bootstrap Aggregating)
+- Random Forests
+- Boosting
+- Ada Boost (Adaptive Boosting)
+
+---
+
+### 🔗 Connect with Me  
+📸 Follow me on  <a href="https://www.instagram.com/jamjam_officiale">Instagram</a>.
+📧 jamjamofficial@email.com
