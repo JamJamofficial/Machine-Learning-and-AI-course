@@ -1,4 +1,4 @@
-# 🚀 Machine Learning & AI with Python – HarvardX (Certified)  
+# 🤖 Machine Learning & AI with Python – HarvardX (Certified)  
 
 ## 🌟 Files coming Soon!  
 
