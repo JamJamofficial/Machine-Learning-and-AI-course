@@ -14,5 +14,5 @@ Hey there! 👋 This repository showcases my coursework and personal practice fr
 ---
 
 ### 🔗 Connect with Me  
-📸 Follow me on  <a href="https://www.instagram.com/jamjam_officiale">Instagram</a>.
+📸 <a href="https://www.linktr.ee/jamjam_official">Socials</a>
 📧 jamjamofficial@email.com
